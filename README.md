@@ -1,1 +1,1 @@
-# styolra
+# stylora.github.io
